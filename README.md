@@ -32,24 +32,16 @@
 ```
 
 - [jQuery](https://jquery.com/download/)
-
 - [clipboard](https://clipboardjs.com/)
-
 - [js-cookie](https://github.com/js-cookie/js-cookie)
-
 - [bootstrap](https://getbootstrap.com/)
-
 - [MDUI](https://www.mdui.org/docs/download)
-
 - [jQuery-UI](https://jqueryui.com/download/)
-
 - [JavaScript 日期处理类库](http://momentjs.cn/)
-
 - [is.js数据检查](http://is.js.org/)
-
 - [Underscore.js常用函数](http://underscorejs.org/)
-
 - [toastr](https://codeseven.github.io/toastr/)
+- [spark-md5-文件md5计算](https://github.com/satazor/js-spark-md5)
 
 <!-- - [hellojs社交平台登录](http://adodson.com/hello.js/#hellojs)-->
 
