@@ -2,7 +2,7 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/qlfj/assets/badge)](https://www.jsdelivr.com/package/gh/qlfj/assets)
 
-一些通用静态文件，用于引用，有且只有min，不定期不定项更新
+一些通用静态文件，用于引用，有且只有min（没有sourceMappingURL），不定期不定项更新
 
 ## 文件目录
 
@@ -22,6 +22,8 @@
 - [MDUI](https://www.mdui.org/docs/download)
 - [jQuery-UI](https://jqueryui.com/download/)
 - [cssreset](https://cssreset.com/)
+
+- [toastr](https://codeseven.github.io/toastr/)
 
 ### JS
 
@@ -47,7 +49,7 @@
 
 - [Underscore.js常用函数](http://underscorejs.org/)
 
-
+- [toastr](https://codeseven.github.io/toastr/)
 
 <!-- - [hellojs社交平台登录](http://adodson.com/hello.js/#hellojs)-->
 
